@@ -1,0 +1,1 @@
+# kaizen-prettier-config
