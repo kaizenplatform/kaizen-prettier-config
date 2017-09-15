@@ -1,5 +1,13 @@
 # @kaizenplatform/prettier-config
 
+## Installation
+
+Install `@kaizenplatform/prettier-config` via npm.
+
+```
+$ npm install --save-dev @kaizenplatform/prettier-config
+```
+
 ## Usage
 
 Import config from `@kaizenplatform/prettier-config` in your `prettier.config.js`
