@@ -1,6 +1,6 @@
 {
   "name": "@kaizenplatform/prettier-config",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Prettier config for Kaizen Platform",
   "main": "index.js",
   "scripts": {
@@ -12,15 +12,13 @@
     "url": "git+https://github.com/kaizenplatform/kaizen-prettier-config.git"
   },
   "keywords": [],
-  "authors": [
-    "Suguru Inatomi <suguru.inatomi@kaizenplatform.com>"
-  ],
+  "authors": ["Suguru Inatomi <suguru.inatomi@kaizenplatform.com>"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kaizenplatform/kaizen-prettier-config/issues"
   },
   "homepage": "https://github.com/kaizenplatform/kaizen-prettier-config#readme",
-  "peerDependencies": {
+  "devDependencies": {
     "prettier": "^1.7.0"
   }
 }
