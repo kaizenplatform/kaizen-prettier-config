@@ -1,0 +1,26 @@
+{
+  "name": "@kaizenplatform/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for Kaizen Platform",
+  "main": "index.js",
+  "scripts": {
+    "fmt": "prettier --config prettier.config.js --write index.js",
+    "preversion": "npm run fmt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaizenplatform/kaizen-prettier-config.git"
+  },
+  "keywords": [],
+  "authors": [
+    "Suguru Inatomi <suguru.inatomi@kaizenplatform.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaizenplatform/kaizen-prettier-config/issues"
+  },
+  "homepage": "https://github.com/kaizenplatform/kaizen-prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^1.7.0"
+  }
+}
