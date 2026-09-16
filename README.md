@@ -2,7 +2,12 @@
 
 ## Installation
 
-Install `@kaizenplatform/prettier-config` via npm.
+Install `@kaizenplatform/prettier-config` from GitHub Packages. Add the following to `.npmrc`. `YOUR_GITHUB_TOKEN` must be a GitHub token with `read:packages`.
+
+```
+@kaizenplatform:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=YOUR_GITHUB_TOKEN
+```
 
 ```
 $ npm install --save-dev @kaizenplatform/prettier-config
