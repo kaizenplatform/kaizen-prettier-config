@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/kaizenplatform/kaizen-prettier-config.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": [],
   "authors": ["Suguru Inatomi <suguru.inatomi@kaizenplatform.com>"],
   "license": "MIT",
